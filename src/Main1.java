@@ -1,11 +1,7 @@
 public class Main1 {
 String fname="youssef";
 int age=17;
-    public Main1() {
-
-
-    }
-
+    public Main1() {}
     static void myMethod(String fname, int age) {
         System.out.println(fname + " is " + age + " years old");
     }
